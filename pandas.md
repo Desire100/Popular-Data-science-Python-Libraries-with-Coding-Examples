@@ -4,7 +4,7 @@ It can work with data from a wide variety of sources.
 
 Pandas deals with: 
 1. Series: it is very similar to a numpy array but differentiate from numpy array is that series can be index by label.
-2. DataFrames: it is the main tool when working with pandas
+2. DataFrames: it is a bunch of series and it is considered as the main tool when working with pandas
 3. Missing Data
 4. GroupBy
 5. Merging, JOining and Concatening
