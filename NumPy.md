@@ -2,4 +2,4 @@ NumPy is a linear algebra library for python, it is very important library for d
 NumPy arrays are the main way we will use NumPy throught this repository. NumPy arrays essentially come in two flavors: vectors and matrices. 
 Vector are 1-d arrays and matrices are 2-arrays.
 
-Our goal is to
+
