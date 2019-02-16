@@ -14,3 +14,8 @@ OpenCV (Open Source Computer Vision) is a libray of programming functions mainly
 Thresholding is fundamentally a very simple method of segmenting an image into different parts.
 Thresholding will convert an image to consist of only two values, white or black.
 ![thresholding](https://user-images.githubusercontent.com/35916017/52900928-9079c400-3237-11e9-95ed-d564804d753c.PNG)
+
+
+######## A common operation for image processing is blurring or smoothing an image. smoothing an image can help get rid of noise, or help an application focus on general details. Often blurring or smooothing is combined with edge detection. E
+
+######## Edge detection algorithms detect too many edges when shown a high resolution image without any blurring.
