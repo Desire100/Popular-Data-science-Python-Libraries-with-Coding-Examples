@@ -24,3 +24,6 @@ Thresholding will convert an image to consist of only two values, white or black
 
 ### Gamma Correction
 Gamma correction can be applied to an image to make it appear brighter or darker depending on the Gamma value chosen.
+
+### Image Gradient
+An image gradient is a directional change in the intensity or color in an image.
