@@ -28,3 +28,7 @@ Gamma correction can be applied to an image to make it appear brighter or darker
 
 ### Image Gradient
 An image gradient is a directional change in the intensity or color in an image.
+![capture1](https://user-images.githubusercontent.com/35916017/52901199-19dec580-323b-11e9-85d4-d95b070fdfd9.PNG)
+
+### Histogram
+A histogram is a visual representation of the distrubution of a continuous feature.
