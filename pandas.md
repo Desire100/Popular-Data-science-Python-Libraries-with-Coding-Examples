@@ -1,4 +1,4 @@
-###  Panda
+#  Panda
 Pandas is an open source library built on top of NumPy. It allows for fast analysis and  data cleaning and prepraration. 
 It excels in perfomance and productivity. It also has built-in visualization features.
 It can work with data from a wide variety of sources. 
